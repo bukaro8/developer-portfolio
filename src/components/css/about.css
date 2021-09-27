@@ -62,7 +62,8 @@
   .about-container {
     display: flex;
     flex-direction: column;
-    margin: 2rem 2rem 0rem 2rem;
+    margin: 2rem 2rem 2rem 2rem;
+    height: fit-content;
   }
   .about-title {
     align-self: center;

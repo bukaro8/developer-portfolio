@@ -24,7 +24,7 @@ function App() {
           {/* <Header/>The header contains the logo and the menu */}
           <Hero></Hero>
           <About></About>
-                <Projects></Projects>
+          <Projects></Projects>
         </div>
         </Route>
       </Switch>

@@ -14,7 +14,7 @@ import 'aos/dist/aos.css'
 
 const About=()=>{
   useEffect(()=>{
-    Aos.init({duration:3000});// set the time duration on the animation
+    Aos.init({duration:2000});// set the time duration on the animation
   },[])
   return(
     <Fragment>
