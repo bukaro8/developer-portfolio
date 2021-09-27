@@ -163,3 +163,8 @@
     font-size: 1.3rem;
   }
 }
+@media only screen and (max-width: 340px) {
+  .hero {
+    height: 97.9vh;
+  }
+}
