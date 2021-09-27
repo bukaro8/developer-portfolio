@@ -86,3 +86,8 @@
     font-size: 1.6rem;
   }
 }
+@media only screen and (max-width: 340px) {
+  .about-title {
+    margin-block-start: 0;
+  }
+}
