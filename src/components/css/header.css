@@ -4,6 +4,7 @@
   display: grid;
   height: 6rem;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 6rem auto;
   z-index: 1;
   background-color: #061e66a2;
   position: fixed;
@@ -17,6 +18,9 @@
 }
 #navbar {
   align-self: center;
+}
+.burger-menu {
+  display: none;
 }
 .logo {
   width: 4rem;
@@ -59,4 +63,17 @@
   .menu-list {
     display: none;
   }
+  .burger-menu {
+    display: flex;
+    margin-inline-end: 2rem;
+    color: white;
+    font-size: 3rem;
+  }
+  #navbar {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+.vanish {
+  display: none;
 }

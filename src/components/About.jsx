@@ -1,5 +1,5 @@
 import React, {Fragment, useEffect}from 'react';
-import aboutcss from './css/about.css'
+import './css/about.css'
 import about from '../images/aboutPic.png'
 import html from '../images/technologies/html.png'
 import css from '../images/technologies/css.png'

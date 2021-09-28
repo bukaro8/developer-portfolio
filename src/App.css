@@ -24,11 +24,7 @@ body {
   font-size: 1.6rem;
   background-color: var(--off-white);
 }
-#root {
-  display: grid;
-  grid-template-rows: 5rem repeat(5, auto);
-  height: 100vh;
-}
+
 .projects {
   height: 500px;
 }
