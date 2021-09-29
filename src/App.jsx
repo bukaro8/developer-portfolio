@@ -26,6 +26,7 @@ function App() {
           <About></About>
           <Projects></Projects>
           <Contact/>
+          
         </div>
         </Route>
       </Switch>
