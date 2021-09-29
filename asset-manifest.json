@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f7164cc.chunk.css",
-    "main.js": "/static/js/main.ac637179.chunk.js",
-    "main.js.map": "/static/js/main.ac637179.chunk.js.map",
+    "main.css": "/static/css/main.c217c2e5.chunk.css",
+    "main.js": "/static/js/main.e0e71285.chunk.js",
+    "main.js.map": "/static/js/main.e0e71285.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/css/2.25153c8f.chunk.css": "/static/css/2.25153c8f.chunk.css",
-    "static/js/2.09359de5.chunk.js": "/static/js/2.09359de5.chunk.js",
-    "static/js/2.09359de5.chunk.js.map": "/static/js/2.09359de5.chunk.js.map",
+    "static/js/2.28112e5c.chunk.js": "/static/js/2.28112e5c.chunk.js",
+    "static/js/2.28112e5c.chunk.js.map": "/static/js/2.28112e5c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.25153c8f.chunk.css.map": "/static/css/2.25153c8f.chunk.css.map",
-    "static/css/main.9f7164cc.chunk.css.map": "/static/css/main.9f7164cc.chunk.css.map",
-    "static/js/2.09359de5.chunk.js.LICENSE.txt": "/static/js/2.09359de5.chunk.js.LICENSE.txt",
+    "static/css/main.c217c2e5.chunk.css.map": "/static/css/main.c217c2e5.chunk.css.map",
+    "static/js/2.28112e5c.chunk.js.LICENSE.txt": "/static/js/2.28112e5c.chunk.js.LICENSE.txt",
+    "static/js/main.e0e71285.chunk.js.LICENSE.txt": "/static/js/main.e0e71285.chunk.js.LICENSE.txt",
     "static/media/aboutPic.23929f62.png": "/static/media/aboutPic.23929f62.png",
     "static/media/hero.css": "/static/media/background.ebf63d72.jpg",
     "static/media/git.dfdd0989.png": "/static/media/git.dfdd0989.png",
     "static/media/github.fc497857.png": "/static/media/github.fc497857.png",
     "static/media/logo.d1e60c24.png": "/static/media/logo.d1e60c24.png",
+    "static/media/project1.abc8771e.jpg": "/static/media/project1.abc8771e.jpg",
     "static/media/react1.283f9f86.png": "/static/media/react1.283f9f86.png",
     "static/media/scroll.4848d549.gif": "/static/media/scroll.4848d549.gif",
     "static/media/typescript.bb13ebd9.png": "/static/media/typescript.bb13ebd9.png"
@@ -24,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.d0605945.js",
     "static/css/2.25153c8f.chunk.css",
-    "static/js/2.09359de5.chunk.js",
-    "static/css/main.9f7164cc.chunk.css",
-    "static/js/main.ac637179.chunk.js"
+    "static/js/2.28112e5c.chunk.js",
+    "static/css/main.c217c2e5.chunk.css",
+    "static/js/main.e0e71285.chunk.js"
   ]
 }
