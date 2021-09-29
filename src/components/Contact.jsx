@@ -18,7 +18,7 @@ const Contact=()=>{
     setEmail('')
     setMessage('')
     
-  },1000)
+  },1100)
     
   
 }
